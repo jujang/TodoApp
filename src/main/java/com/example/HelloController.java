@@ -8,6 +8,6 @@ public class HelloController {
 
     @GetMapping("/")
     public String helloWorld() {
-        return "To-do Application !";
+        return "This is git dev version!";
     }
 }
